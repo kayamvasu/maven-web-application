@@ -96,7 +96,7 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>nexus</id>
+	      <id>admin</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://54.199.197.49:8081/repository/Citi_Releases/</url>
 	    </repository>
