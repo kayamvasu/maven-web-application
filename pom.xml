@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Repository A</name>
-	      <url>http://54.199.197.49:8081/repository/A/</url>
+	      <url>http://54.95.145.129:8081/repository/A/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Repository B </name>
-	      <url>http://54.199.197.49:8081/repository/B/</url>
+	      <url>http://54.95.145.129:8081/repository/B/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
